@@ -97,6 +97,7 @@
 
 <div align="center">
 
+<!-- 使用多个镜像源，增加访问成功率 -->
 <img src="https://github-readme-stats.vercel.app/api?username=Orange20000922&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=cn" alt="GitHub 统计" height="170"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orange20000922&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=cn" alt="最常用语言" height="170"/>
 
@@ -104,9 +105,24 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Orange20000922&theme=tokyonight&hide_border=true&locale=cn" alt="连续提交记录" />
+<!-- 使用新的 streak-stats 服务 (替代 herokuapp) -->
+<img src="https://streak-stats.demolab.com/?user=Orange20000922&theme=tokyonight&hide_border=true&locale=zh_Hans" alt="连续提交记录" />
 
 </div>
+
+<!-- 如果上面的图片无法显示，可以尝试以下替代方案： -->
+<!--
+### 备选方案 1: 使用 GitHub Profile Trophy
+<img src="https://github-profile-trophy.vercel.app/?username=Orange20000922&theme=tokyonight&no-frame=true&column=7" />
+
+### 备选方案 2: 使用 GitHub Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Orange20000922&theme=tokyo-night&hide_border=true" />
+
+### 自建服务（最稳定）:
+1. Fork: https://github.com/anuraghazra/github-readme-stats
+2. 部署到 Vercel 并设置环境变量 PAT_1（GitHub Token）
+3. 替换 URL 为你自己的 Vercel 域名
+-->
 
 ---
 
