@@ -105,7 +105,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Orange20000922&theme=tokyonight&hide_border=true" alt="连续提交记录" />
+<img src="https://orangereadmestats.vercel.app/?user=Orange20000922&theme=tokyonight&hide_border=true" alt="连续提交记录" />
 
 </div>
 
