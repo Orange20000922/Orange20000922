@@ -97,31 +97,33 @@
 
 <div align="center">
 
-<!-- 使用多个镜像源，增加访问成功率 -->
-<img src="https://github-readme-stats.vercel.app/api?username=Orange20000922&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=cn" alt="GitHub 统计" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orange20000922&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=cn" alt="最常用语言" height="170"/>
+<!-- 移除了 count_private 参数以避免 API 错误 -->
+<img src="https://github-readme-stats.vercel.app/api?username=Orange20000922&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub 统计" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orange20000922&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="最常用语言" height="170"/>
 
 </div>
 
 <div align="center">
 
-<!-- 使用新的 streak-stats 服务 (替代 herokuapp) -->
-<img src="https://streak-stats.demolab.com/?user=Orange20000922&theme=tokyonight&hide_border=true&locale=zh_Hans" alt="连续提交记录" />
+<img src="https://streak-stats.demolab.com/?user=Orange20000922&theme=tokyonight&hide_border=true" alt="连续提交记录" />
 
 </div>
 
-<!-- 如果上面的图片无法显示，可以尝试以下替代方案： -->
+<div align="center">
+
+<!-- GitHub 成就奖杯 -->
+<img src="https://github-profile-trophy.vercel.app/?username=Orange20000922&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub 奖杯" />
+
+</div>
+
+<!-- 如果仍然无法显示，说明可能是网络问题或 API 限流，建议自建服务： -->
 <!--
-### 备选方案 1: 使用 GitHub Profile Trophy
-<img src="https://github-profile-trophy.vercel.app/?username=Orange20000922&theme=tokyonight&no-frame=true&column=7" />
-
-### 备选方案 2: 使用 GitHub Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Orange20000922&theme=tokyo-night&hide_border=true" />
-
-### 自建服务（最稳定）:
+### 自建服务（最稳定的解决方案）:
 1. Fork: https://github.com/anuraghazra/github-readme-stats
-2. 部署到 Vercel 并设置环境变量 PAT_1（GitHub Token）
-3. 替换 URL 为你自己的 Vercel 域名
+2. 在 https://vercel.com 导入你 fork 的仓库
+3. 添加环境变量 PAT_1 = 你的 GitHub Personal Access Token
+4. 部署后将上面的 URL 替换为你自己的 Vercel 域名（如 https://your-app.vercel.app）
+5. 如需私有仓库统计，在 URL 中加上 &count_private=true
 -->
 
 ---
