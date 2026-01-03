@@ -15,7 +15,7 @@
 ## 🚀 关于我
 - 💻 热衷于 **系统编程**、**文件系统** 和 **性能优化**
 - 🌱 正在学习：**Rust** 系统级编程 和 **Spring Boot** 后端开发
-- 🔍 探索中：Windows 底层 API、NTFS 文件系统内部原理、多线程优化、Web编程
+- 🔍 探索中：Windows 底层 API、NTFS 文件系统内部原理、多线程优化、Web编程、Windows Driver以及内核编程
 
 ---
 
@@ -35,7 +35,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### 兴趣方向
-- 🔧 **系统编程**：Windows 底层 API、文件系统内部原理
+- 🔧 **系统编程**：Windows 底层 API、文件系统内部原理、Windows内核架构、系统安全和攻防
 - ⚡ **性能优化**：多线程、缓存策略、I/O 优化
 - 🤖 **机器人开发**：QQ 机器人、自动化工具
 - 🌐 **网络编程**：Web后端开发，基于Rust,Java,Python
