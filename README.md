@@ -105,14 +105,14 @@
 
 <div align="center">
 
-<img src="https://orangereadmestats.vercel.app/?user=Orange20000922&theme=tokyonight&hide_border=true" alt="连续提交记录" />
+<img src="https://streak-stats.demolab.com/?user=Orange20000922&theme=tokyonight&hide_border=true" alt="连续提交记录" />
 
 </div>
 
 <div align="center">
 
 <!-- GitHub 成就奖杯 -->
-<img src="https://orangereadmestats.vercel.app/?username=Orange20000922&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub 奖杯" />
+<img src="https://streak-stats.demolab.com/?username=Orange20000922&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub 奖杯" />
 
 </div>
 
