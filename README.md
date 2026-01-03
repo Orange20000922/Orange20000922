@@ -98,8 +98,8 @@
 <div align="center">
 
 <!-- 移除了 count_private 参数以避免 API 错误 -->
-<img src="https://orangereadmestats.vercel.app/api?username=Orange20000922&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub 统计" height="170"/>
-<img src="https://orangereadmestats.vercel.app/api?username=Orange20000922&show_icons=true&theme=tokyonight&hide_border=true" alt="最常用语言" height="170"/>
+<img src="https://orangereadmestats-gi4akmblb-orange233s-projects.vercel.app/api?username=Orange20000922&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub 统计" height="170"/>
+<img src="https://orangereadmestats-gi4akmblb-orange233s-projects.vercel.app/api?username=Orange20000922&show_icons=true&theme=tokyonight&hide_border=true" alt="最常用语言" height="170"/>
 
 </div>
 
