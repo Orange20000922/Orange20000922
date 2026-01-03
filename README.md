@@ -111,10 +111,6 @@
 
 <div align="center">
 
-<!-- GitHub 成就奖杯 -->
-<img src="https://streak-stats.demolab.com/?username=Orange20000922&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub 奖杯" />
-
-</div>
 
 <!-- 如果仍然无法显示，说明可能是网络问题或 API 限流，建议自建服务： -->
 <!--
