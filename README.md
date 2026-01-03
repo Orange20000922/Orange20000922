@@ -98,8 +98,8 @@
 <div align="center">
 
 <!-- 移除了 count_private 参数以避免 API 错误 -->
-<img src="https://github-readme-stats.vercel.app/api?username=Orange20000922&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub 统计" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orange20000922&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="最常用语言" height="170"/>
+<img src="https://orangereadmestats.vercel.app/api?username=Orange20000922&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub 统计" height="170"/>
+<img src="https://orangereadmestats.vercel.app/api/top-langs/?username=Orange20000922&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="最常用语言" height="170"/>
 
 </div>
 
@@ -112,7 +112,7 @@
 <div align="center">
 
 <!-- GitHub 成就奖杯 -->
-<img src="https://github-profile-trophy.vercel.app/?username=Orange20000922&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub 奖杯" />
+<img src="https://orangereadmestats.vercel.app/?username=Orange20000922&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub 奖杯" />
 
 </div>
 
