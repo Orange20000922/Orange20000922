@@ -98,7 +98,7 @@
 <div align="center">
 
 <!-- 移除了 count_private 参数以避免 API 错误 -->
-<img src="https://orangereadmestats.vercel.app/api?username=Orange20000922&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub 统计" height="170"/>
+<img src="https://camo.githubusercontent.com/3b68c27b8a0eb45a801b8522eee9a40d85ac31e3a789c109df5f7f8582b27478/68747470733a2f2f6f72616e6765726561646d6573746174732e76657263656c2e6170702f6170693f757365726e616d653d4f72616e676532303030303932322673686f775f69636f6e733d74727565267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565" alt="GitHub 统计" height="170"/>
 <img src="https://orangereadmestats.vercel.app/api/top-langs/?username=Orange20000922&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="最常用语言" height="170"/>
 
 </div>
