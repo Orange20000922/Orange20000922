@@ -49,7 +49,7 @@
 
 ## 📂 精选项目
 
-### [🧠 MyNeuroLikeSystem](https://github.com/Orange20000922/MyNeuroLikeSystem)
+### [🧠 XiaoJuSystem](https://github.com/Orange20000922/MyNeuroLikeSystem)
 **多模态 AI 伙伴系统 — 情绪建模 · 视觉感知 · 分级记忆**
 - 🎭 **OU 过程情绪状态机**：二维耦合 Ornstein-Uhlenbeck 连续情绪动力学，EKF 参数辨识
 - 👁️ **FFT 自适应视觉采样**：STFT 频域能量比驱动采样率，三层控制（FFT + spike guard + 像素 precheck）
