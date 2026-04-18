@@ -74,7 +74,7 @@
 
 ## 💡 正在做
 
-- 🧠 **MyNeuroLikeSystem**：视觉技能触发 + GLM-4V 多模态分析集成
+- 🧠 **XiaoJuSystem**：视觉技能触发 + GLM-4V 多模态分析集成
 - 🔨 **Filerestore_CLI**：USN Journal 支持，实时删除文件检测
 - 📚 **深入中**：信号处理（FFT/STFT）、时序模型、Rust 异步编程
 
